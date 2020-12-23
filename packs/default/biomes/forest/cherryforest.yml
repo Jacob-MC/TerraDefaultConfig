@@ -1,0 +1,21 @@
+extends: "FOREST_ABSTRACT"
+id: "CHERRYFOREST"
+
+palette:
+  - "BLOCK:minecraft:bedrock": 0
+  - BEDROCK_MOST: 1
+  - BEDROCK_HALF: 2
+  - BEDROCK_LITTLE: 3
+  - SANDY: 62
+  - GRASSY: 255
+vanilla: BIRCH_FOREST
+
+trees:
+  - density: 2
+    items:
+      - CHERRY_BLOSSOM: 1
+      - PURPLE_BLOSSOM: 1
+      - MIX_BLOSSOM: 1
+    y:
+      min: 60
+      max: 100
