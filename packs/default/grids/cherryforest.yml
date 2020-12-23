@@ -1,0 +1,4 @@
+grid:
+  - [ "CHERRYFOREST" ]
+id: "CHERRYFOREST"
+extends: GRID_FREQUENCIES
